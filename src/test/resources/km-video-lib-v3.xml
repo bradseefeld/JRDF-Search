@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:gss="http://www.w3.org/2001/11/IsaViz/graphstylesheets#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:video="http://localhost#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xml:base="http://localhost:8080/css583/km-video-lib-v3.xml">
+  <rdf:Description rdf:about="http://www.youtube.com/watch?v=QEAbCKPZkD4">
+    <video:date>June 08, 2009 </video:date>
+    <video:author>VUEProject</video:author>
+    <video:type>Screencast</video:type>
+    <video:style>Presentation</video:style>
+    <video:tag>VUE</video:tag>
+    <video:tag>semantic web</video:tag>
+    <video:title>Presenting with VUE</video:title>
+	<video:suggested rdf:resource="http://www.youtube.com/watch?v=QEAbCKPZkD4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.youtube.com/watch?v=n3sbwnFbm_s">
+    <video:tag>web2.0 </video:tag>
+    <video:tag>semantic web</video:tag>
+    <video:author>Marlenal</video:author>
+    <video:tag>uOttawa </video:tag>
+    <video:title>Semantic Web vs. Web 2.0 (Mac vs. PC Commercial Parody)</video:title>
+    <video:type>parody</video:type>
+    <video:style>comedy</video:style>
+    <video:tag>CMN4170</video:tag>
+    <video:tag>parody</video:tag>
+    <video:date>November 12, 2009 </video:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.youtube.com/watch?v=OGg8A2zfWKg">
+    <video:date>December 25, 2007 </video:date>
+    <video:author>msporny</video:author>
+    <video:type>Video</video:type>
+    <video:style>Presentation</video:style>
+    <video:tag>rdfa</video:tag>
+    <video:tag>microformats</video:tag>
+    <video:tag>manu</video:tag>
+    <video:tag>sporny</video:tag>
+    <video:tag>semantic web</video:tag>
+    <video:title>Intro to Semantic Web</video:title>
+	<video:suggested rdf:resource="http://www.youtube.com/watch?v=QEAbCKPZkD4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.youtube.com/watch?v=ldl0m-5zLz4">
+    <video:date>January 07, 2008 </video:date>
+    <video:author>msporny</video:author>
+    <video:type>Video</video:type>
+    <video:style>Presentation</video:style>
+    <video:tag>rdfa</video:tag>
+    <video:tag>basics</video:tag>
+    <video:tag>semantic</video:tag>
+    <video:tag>web</video:tag>
+    <video:tag>manu</video:tag>
+	<video:tag>syntax</video:tag>
+	<video:tag>sporny</video:tag>
+	<video:tag>primer</video:tag>
+    <video:title>RDFa Basics</video:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.youtube.com/watch?v=k_XRZCSh5ww">
+    <video:date>June 27, 2007 </video:date>
+    <video:author>dufresneconsulting</video:author>
+    <video:type>Video</video:type>
+    <video:style>Presentation</video:style>
+    <video:tag>semantic</video:tag>
+    <video:tag>web</video:tag>
+    <video:tag>business</video:tag>
+    <video:tag>rules</video:tag>
+    <video:tag>owl</video:tag>
+	<video:tag>ontology</video:tag>
+	<video:tag>programming</video:tag>
+    <video:title>Rules and Semantic Web - Part 1</video:title>
+	<video:next rdf:resource="http://www.youtube.com/watch?v=2bl_bsYbiuQ"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.youtube.com/watch?v=2bl_bsYbiuQ">
+    <video:date>June 27, 2007 </video:date>
+    <video:author>dufresneconsulting</video:author>
+    <video:type>Video</video:type>
+    <video:style>Presentation</video:style>
+    <video:tag>semantic</video:tag>
+    <video:tag>web</video:tag>
+    <video:tag>business</video:tag>
+    <video:tag>rules</video:tag>
+    <video:tag>owl</video:tag>
+	<video:tag>ontology</video:tag>
+	<video:tag>programming</video:tag>
+    <video:title>Rules and Semantic Web - Part 2</video:title>
+	<video:next rdf:resource="http://www.youtube.com/watch?v=52mKWUEbQJI"/>
+	<video:previous rdf:resource="http://www.youtube.com/watch?v=k_XRZCSh5ww"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.youtube.com/watch?v=52mKWUEbQJI">
+    <video:date>June 27, 2007 </video:date>
+    <video:author>dufresneconsulting</video:author>
+    <video:type>Video</video:type>
+    <video:style>Presentation</video:style>
+    <video:tag>semantic</video:tag>
+    <video:tag>web</video:tag>
+    <video:tag>business</video:tag>
+    <video:tag>rules</video:tag>
+    <video:tag>owl</video:tag>
+	<video:tag>ontology</video:tag>
+	<video:tag>programming</video:tag>
+    <video:title>Rules and Semantic Web - Part 3</video:title>
+	<video:previous rdf:resource="http://www.youtube.com/watch?v=2bl_bsYbiuQ"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.youtube.com/watch?v=HeUrEh-nqtU">
+    <video:date>December 09, 2008 </video:date>
+    <video:author>dilshod2006</video:author>
+    <video:type>Video</video:type>
+    <video:style>Screencast</video:style>
+    <video:tag>Semantic</video:tag>
+    <video:tag>web</video:tag>
+    <video:tag>Data</video:tag>
+    <video:tag>Tim</video:tag>
+    <video:tag>Berners-Lee</video:tag>
+    <video:title>The Semantic Web of Data Tim Berners-Lee</video:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.youtube.com/watch?v=zXlKIJoSLVM">
+    <video:date>December 25, 2009 </video:date>
+    <video:author>jalam1001</video:author>
+    <video:type>Video</video:type>
+    <video:style>Screencast</video:style>
+    <video:tag>web 3.0</video:tag>
+    <video:tag>semantic web</video:tag>
+    <video:tag>web</video:tag>
+    <video:tag>internet</video:tag>
+    <video:title>Internet Semantic Web Web 3.0</video:title>
+	<video:sucessted rdf:resource="http://www.youtube.com/watch?v=HeUrEh-nqtU"/>
+  </rdf:Description>
+</rdf:RDF>
